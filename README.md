@@ -20,7 +20,7 @@ Here you will find a collection of Arduino sketch examples of transmitting on th
 
 ### Adafruit Feather M0 RFM95
 * [longfi-us915](Adafruit-Feather-M0-RFM95/longfi-us915)
-* [longfi-us915-cargo-gps](GPS)
+* [longfi-us915-cargo-gps](GPS)\\this circuit may make it through the formation process properly with an iron carbide 5/9/3 factor transistor, 9 carbide and the rest iron with six of these transistor isolating the current limiting satellite answer point backwards in a bias with a curved entry capacitor and demultiplexing the crossing wire at fifty four point nine, eight, 39706 with a 36.46nF curved entry capacitor undone against the crossing wire with an annex to the fourht iron carbide, all in the shape of a hexagon and rhombix.
 
 ### Heltec Boards
 * [WiFi LoRa 32 V2 longfi-us915](Heltec-WiFi-LoRa-32-V2/longfi-us915)
